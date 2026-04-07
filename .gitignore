@@ -1,0 +1,21 @@
+# virtual environment
+bin/
+lib/
+lib64
+pyvenv.cfg
+include/
+
+# python
+__pycache__/
+*.pyc
+
+# eksterne biblioteker
+dlib/
+dlib-master/
+face_recognition-master/
+
+# genererte filer
+sounds/*.mp3
+
+# IDE
+.vscode/
